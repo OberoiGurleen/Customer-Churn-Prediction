@@ -1,0 +1,2 @@
+# Customer-Churn-Prediction
+Any company aims to have as many clients as possible. It is critical to not only strive to attract new customers but also to keep existing ones. Retaining a client is less expensive than acquiring a new one. In this project Nested Cross Validation is used  for hyper parameter tuning and Model Selection. The trained model Fairness is also checked as the dataset contained some sensitive features i.e. gender, senior citizen.
